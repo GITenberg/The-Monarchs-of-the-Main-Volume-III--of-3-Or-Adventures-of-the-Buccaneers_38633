@@ -1,0 +1,32 @@
+_repo: The-Monarchs-of-the-Main-Volume-III--of-3-Or-Adventures-of-the-Buccaneers_38633
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38633-h/images/cover3.png
+creator:
+  author:
+    agent_name: Thornbury, Walter
+    aliases:
+    - Thornbury, George Walter
+    - Thornbury, G. W. (George Walter)
+    - Thornbury, George W. (George Walter)
+    birthdate: 1828
+    deathdate: 1876
+    gutenberg_agent_id: '35209'
+    url: http://www.gutenberg.org/2009/agents/35209
+description: ''
+gutenberg_issued: '2012-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcsh 'Buccaneers'
+- !lcsh 'Spanish Main'
+- !lcc 'F2155'
+title: The Monarchs of the Main; Or, Adventures of the Buccaneers. Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/38633
